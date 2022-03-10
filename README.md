@@ -1,4 +1,4 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrixH&theme=github-dark-blue&hide_border=true&date_format=%5BY%20%5DM%20j)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrixH&theme=github-dark-blue&hide_border=true&date_format=%5BY%20%5DM%20j)
 
 
 
