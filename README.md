@@ -1,3 +1,9 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrixH)](https://git.io/streak-stats)
+
+
+
+
+
 - 👋 Hi, I’m @KrixH
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
