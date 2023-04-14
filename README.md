@@ -37,6 +37,9 @@
   </a>
 </p>
 
+<p align=center>
+  <a href="https://discord.com/users/219693331096141836"><img src="https://lanyard-profile-readme.vercel.app/api/219693331096141836" width=45%></a>
+</p>
 
 ## 🛠️ My favorite tools
 
