@@ -10,11 +10,11 @@
 
 <!-- Social icons section Start -->
 <p align="center">
-  <a href="https://www.youtube.com/c/KrisztiánHorila"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/c/KrisztiánHorila"><img width="32px" alt="Youtube" title="Youtube" src="https://www.svgrepo.com/show/494293/youtube-round.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/_KrixH_"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/_KrixH_"><img width="32px" alt="Twitter" title="Twitter" src="https://www.svgrepo.com/show/494287/twitter-round.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.twitch.tv/kriszh99" alt="KrixH#7552" title="Twitch"><img width="32px" src="https://i.imgur.com/HSCsk7C.png"/></a>
+  <a href="https://www.twitch.tv/kriszh99" alt="KrixH#7552" title="Twitch"><img width="32px" src="https://www.svgrepo.com/show/345245/twitch.svg"/></a>
 </p>
 <br/>
 <!-- Social icons section Vége -->
