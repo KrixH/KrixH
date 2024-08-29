@@ -14,7 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/_KrixH_"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/219693331096141836" alt="KrixH#7552" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discordapp.com/users/219693331096141836" alt="KrixH#7552" title="Discord"><img width="32px" src="[https://i.imgur.com/OViZO8J.png](https://i.imgur.com/OViZO8J.png)"/></a>
 </p>
 <br/>
 <!-- Social icons section Vége -->
