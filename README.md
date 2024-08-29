@@ -14,7 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/_KrixH_"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com" alt="KrixH#7552" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://www.twitch.tv/kriszh99" alt="KrixH#7552" title="Twitch"><img width="32px" src="https://i.imgur.com/HSCsk7C.png"/></a>
 </p>
 <br/>
 <!-- Social icons section Vége -->
